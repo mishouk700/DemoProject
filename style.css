@@ -1,0 +1,236 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+body {
+  font-family: "Lato", sans-serif;
+}
+.sec-one {
+  width: 1920px;
+  height: 850px;
+  background: #fdeef1;
+}
+.m-title {
+  color: #272727;
+  font-size: 80px;
+  font-weight: 800;
+  width: 708px;
+}
+.dscrpt {
+  width: 634px;
+  color: rgba(39, 39, 39, 0.6);
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 30px;
+  margin-top: 32px;
+  margin-bottom: 32px;
+}
+.special-btn {
+  border-radius: 8px;
+  background: #e55473;
+  padding: 20px 43px;
+  gap: 10px;
+  color: white;
+  border: none;
+  font-size: 20px;
+}
+.img-img {
+  width: 635px;
+  height: 800px;
+  margin-top: 50px;
+  margin-right: 240px;
+}
+.sec-one {
+  display: flex;
+  justify-content: space-between;
+}
+.sec-one-one {
+  margin-top: 197px;
+  margin-left: 240px;
+  margin-bottom: 147px;
+}
+.btn-two {
+  margin-left: 603px;
+}
+.section-two {
+  width: 1922px;
+  height: 620px;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 150px;
+}
+.image-two {
+  margin-top: 100px;
+  margin-right: 429px;
+  margin-bottom: 100px;
+  width: 318px;
+  height: 420px;
+}
+.title {
+  margin-top: 230px;
+  margin-left: 423px;
+  font-size: 40px;
+}
+.two {
+  margin-left: 395px;
+  margin-top: 24px;
+  margin-bottom: 32px;
+  text-align: center;
+  width: 594px;
+}
+.instagram {
+  color: #272727;
+  text-align: center;
+  font-size: 40px;
+  font-weight: 800;
+  margin-top: 128px;
+  margin-bottom: 24px;
+}
+.society {
+  width: 594px;
+  color: rgba(39, 39, 39, 0.6);
+  text-align: center;
+  font-size: 18px;
+  font-weight: 400;
+  margin-bottom: 48px;
+  margin-left: 663px;
+}
+.img-sect {
+  margin-left: 240px;
+  margin-right: 240px;
+  display: flex;
+  gap: 24px;
+  margin-bottom: 128px;
+}
+.dealings {
+  width: 1440px;
+  height: 449px;
+  margin-left: 240px;
+  margin-right: 240px;
+  margin-bottom: 128px;
+  background: url("./Asset/Rectangle\ 9.png");
+}
+.dealings-title {
+  color: #272727;
+  font-size: 40px;
+  font-weight: 800;
+  padding-left: 533px;
+  margin-bottom: 16px;
+  padding-top: 122px;
+}
+.dealings-descript {
+  color: rgba(39, 39, 39, 0.6);
+  font-size: 18px;
+  font-weight: 400;
+  margin-bottom: 48px;
+  margin-left: 604px;
+}
+.form {
+  width: 700px;
+  height: 64px;
+  margin-left: 287px;
+  margin-bottom: 121px;
+  border-radius: 8px;
+  border: none;
+}
+input::placeholder {
+  color: rgba(39, 39, 39, 0.6);
+  font-size: 16px;
+  font-weight: 400;
+  padding-top: 23px;
+  padding-left: 22px;
+}
+footer {
+  width: 1922px;
+  height: 449px;
+  background: #111010;
+}
+.footer-title {
+  font-size: 48px;
+  font-weight: 800;
+  color: white;
+  text-align: center;
+  padding-top: 128px;
+  margin-bottom: 24px;
+}
+.footer-description {
+  color: rgba(255, 255, 255, 0.9);
+  text-align: center;
+  font-size: 18px;
+  font-weight: 400;
+  width: 625px;
+  margin-bottom: 32px;
+  margin-left: 648px;
+}
+.copyright {
+  color: rgba(255, 255, 255, 0.4);
+  text-align: center;
+  font-size: 16px;
+  font-weight: 400;
+}
+.feature-title {
+  margin-top: 178px;
+  margin-bottom: 24px;
+  color: #272727;
+  text-align: center;
+  font-size: 40px;
+  font-weight: 800;
+}
+.feature-descript {
+  width: 594px;
+  color: rgba(39, 39, 39, 0.6);
+  text-align: center;
+  font-size: 18px;
+  font-weight: 400;
+  margin-left: 663px;
+  margin-bottom: 48px;
+}
+.boxes-one {
+  width: 464px;
+  height: 538px;
+  border-radius: 300px 300px 0px 0px;
+  background: rgba(167, 33, 98, 0.15);
+}
+.box {
+  margin-right: 240px;
+  margin-left: 240px;
+  display: flex;
+  gap: 24px;
+}
+.feature-one {
+  width: 310px;
+  height: 428px;
+  padding-top: 110px;
+  padding-left: 76px;
+  padding-right: 78px;
+}
+.box-text {
+  color: #272727;
+  text-align: center;
+  font-size: 24px;
+  font-weight: 700;
+  text-decoration-line: underline;
+  margin-top: 32px;
+}
+.boxes-two {
+  width: 464px;
+  height: 538px;
+  border-radius: 300px 300px 0px 0px;
+  background: rgba(5, 151, 160, 0.15);
+}
+.feature-two {
+  width: 370px;
+  height: 370px;
+  padding: 117px 47px 51px 47px;
+}
+.boxes-three {
+  width: 464px;
+  height: 538px;
+  border-radius: 300px 300px 0px 0px;
+  background: rgba(71, 125, 17, 0.15);
+}
+.feature-three {
+  width: 314px;
+  height: 471px;
+  padding: 67px 75px 0px 75px;
+}
